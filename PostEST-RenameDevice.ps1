@@ -7,7 +7,7 @@
 #>
 
 # ---- Settings you may customize ----
-$OrgPrefix      = ""          # e.g. "MSFT-" (keep empty if you don’t want it)
+$OrgPrefix      = "CMA-"          # e.g. "MSFT-" (keep empty if you don’t want it)
 $SerialDigits   = 6           # take last N chars of serial
 $UseFormFactor  = $true       # include L/D for Laptop/Desktop
 $WorkDir        = "C:\ProgramData\Company\Rename"
